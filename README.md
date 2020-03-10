@@ -1,24 +1,18 @@
-# Todo-List
+# todolist
+
 > Todo-List application written using Node + Vue + MongoDB.
 
- These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Build Setup
 
-## Installation
+``` bash
+# install dependencies
+npm install
 
-building
+# serve with hot reload at localhost:8080
+npm run dev
 
-## Usage example
+# build for production with minification
+npm run build
+```
 
-building
-
-## Development setup
-
-building
-
-## Release History
-
-building
-
-## Meta
-
-building
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
