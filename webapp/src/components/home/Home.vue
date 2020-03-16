@@ -61,6 +61,10 @@
 
 <style lang="scss" scoped>
 
+    body {
+        background-color: rgb(46, 70, 68);
+    }
+
     .Page {
         background-color: rgb(46, 70, 68);
         width: 100vw;
@@ -124,7 +128,7 @@
 
     .Body {
         margin: auto;
-        margin-top: 30px;
+        margin-top: 50px;
         width: 540px;
     }
 

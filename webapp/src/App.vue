@@ -9,11 +9,11 @@
     import { routes } from './routes';
 
     export default {
-         data() {
+        data() {
 
-             return { routes }
+            return { routes }
 
-         }
+        }
     }
 
 </script>

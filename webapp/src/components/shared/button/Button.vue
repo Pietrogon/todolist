@@ -1,5 +1,5 @@
 <template>
-    <button @click="click()" :class="classButton" :type="TDtype" :style="TDstyle">{{ TDtext }}</button>
+    <button @click="TDclick()" :class="classButton" :type="TDtype" :style="TDstyle">{{ TDtext }}</button>
 </template>
 
 <script>
@@ -35,7 +35,15 @@
 
             }
 
-        }
+        },
+
+        methods: {
+
+            TDclick() {
+                this.$emit('TDclick');
+            }
+
+        },
 
     }
 
