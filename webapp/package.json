@@ -1,8 +1,8 @@
 {
   "name": "todolist",
-  "description": "A Vue.js project",
+  "description": "Todo-List application written using Node + Vue + MongoDB.",
   "version": "1.0.0",
-  "author": "pietrogon <pietrogon@gmail.com>",
+  "author": "Pietro Gonçalves",
   "license": "MIT",
   "private": true,
   "scripts": {
